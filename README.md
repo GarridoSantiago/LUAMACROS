@@ -26,3 +26,6 @@ Este repositorio contiene código para programar un teclado numérico para uso p
 - keyID: un codigo modificado ligeramente originalmente escrito por Potentium (Gracias!!)
 
 ##### Si quieres ver el contenido original de Potentium mira este [video en youtube](https://www.youtube.com/watch?v=LsHhLZXrQsI&feature=youtu.be).
+
+## Download
+[Download here/Descarga aquí](https://github.com/me2d13/luamacros).
